@@ -1,5 +1,5 @@
 puts "Welcome to Stratego!"
-
+puts "If you take the button labled 'f' then you win!""
 require 'fox16'
 
 include Fox
